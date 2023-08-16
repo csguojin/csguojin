@@ -5,11 +5,10 @@ I am Guo Jin.
 - 🌱 I’m currently learning Go.
 
 <a href="https://github.com/csguojin">
-  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csguojin&layout=compact&hide=html&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csguojin&langs_count=3" />
 </a>
-
 <a href="https://github.com/csguojin">
-  <img align="center" width="390" src="https://github-readme-stats.vercel.app/api?username=csguojin&count_private=true&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=csguojin&show=prs_merged,prs_merged_percentage&hide=contribs,issues" />
 </a>
 
 <!--
